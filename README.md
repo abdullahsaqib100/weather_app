@@ -21,7 +21,7 @@ To run this project, you will need to get your API key from 'OpenWeatherMap' by 
 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭?
 
 (i) Clone the repository:
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/abdullahsaqib100/weather-app.git
 
 (ii) Navigate to the project directory:
 cd weather-app
